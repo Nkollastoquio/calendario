@@ -1,0 +1,32 @@
+table,td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.domingo{
+    color: red;
+}
+.azul {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: LightBlue
+}
+ 
+.verde {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: PaleGreen
+}
+.rosa{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color:LightPink
+}
+.roxo{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color:SlateBlue
+}
